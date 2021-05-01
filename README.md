@@ -1,6 +1,22 @@
 # SeeWho
 
-![Architecture](/assets/network-home.png)
+![IMG_1458](https://user-images.githubusercontent.com/655557/116790919-eb004300-aa84-11eb-94e5-707f02197710.JPG)
+
+### See Who your Phone is reaching out to
+
+We wonder what our phones are doing all day and all night. The lucky few super geeks know how to see this activity - and even fewer can make any sense of it. [its-middle-night-do-you-know-who-your-iphone-is-talking to? Washington Post/](https://www.washingtonpost.com/technology/2019/05/28/its-middle-night-do-you-know-who-your-iphone-is-talking/)
+
+SeeWho is part of an effort by many people and organizations around the world to make it easier for all of use to check if something is wrong with our phones. And by "something is wrong" - we mean - someone pulling your data out or tracking you, that you don't know about and don't want. Even if it turns out you are not the target of an international corporate espionage ring, you'll definitely find hordes of advertisers and data brokers making unwanted use of the phone services you are paying for. Let's take a deeper look.
+
+### Credits
+
+All this software is free to you. Whenever you see such a statement, you should wonder "how can it be free?" Is my data being sold so this thing can be free? Those are some of the right questions for sure. SeeWho is a combination of multiple kinds of free open source software that many different people have added to. Everyone can also see and verify everyone else's work, which helps prevent someone turning the code malicious.
+
+The foundational software currently in use for SeeWho is from an open source project funded originally by the National Science Foundation. It used to be called Bro (kind of a joke on Big Brother, because it is so good at monitoring network traffic) and now is re-branded as Zeek. Also in SeeWho is Suricata, funded by the Open Information Security Foundation (OISF.net). https://vue.js/ is part of the user interface. 
+
+As will be explained in more detail at the bottom of this page, other contributors worked on making the configuration of the above software easier to install, maintain, and output reports. 
+
+********************* FIXME BELOW we are still in the process of editing, auditing and adding features to SeeWho.
 
 ### Description
 
