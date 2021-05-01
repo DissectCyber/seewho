@@ -1,6 +1,6 @@
 <template>
     <div class="center">
-        <img src="@/assets/logo.png" id="tinycheck-logo" />
+        <img src="@/assets/logo.png" id="seewho-logo" />
         <div class="loading loading-lg loadingsplash"></div>
     </div>
 </template>

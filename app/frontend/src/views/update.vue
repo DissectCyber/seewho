@@ -1,6 +1,6 @@
 <template>
     <div class="center">
-        <p><strong>{{ $t("update.tinycheck_needs") }} ({{next_version}}).</strong><br />
+        <p><strong>{{ $t("update.seewho_needs") }} ({{next_version}}).</strong><br />
             <span v-if="!update_launched">{{ $t("update.please_click") }}</span>
             <span v-if="update_launched&&!update_finished">{{ $t("update.the_process") }}</span>
             <span v-if="update_launched&&update_finished" class="color-green">✓ {{ $t("update.update_finished") }}</span>

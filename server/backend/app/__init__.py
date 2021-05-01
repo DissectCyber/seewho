@@ -7,7 +7,7 @@ from sqlalchemy.orm.session import sessionmaker
 import sys
 
 parent = "/".join(sys.path[0].split("/")[:-2])
-engine = create_engine('sqlite:////{}/tinycheck.sqlite3'.format(parent), convert_unicode=True)
+engine = create_engine('sqlite:////{}/seewho.sqlite3'.format(parent), convert_unicode=True)
 metadata = MetaData(bind=engine)
 session = scoped_session(sessionmaker(autocommit=False, autoflush=False, bind=engine))
 

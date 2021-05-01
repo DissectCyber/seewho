@@ -1,6 +1,6 @@
 {
     "home": {
-        "welcome_msg": "Bienvenido a TinyCheck.",
+        "welcome_msg": "Bienvenido a SeeWho.",
         "help_msg": "Te ayudaremos a revisar tu dispositivo",
         "start_btn": "¡Empecemos!"
     },
@@ -80,7 +80,7 @@
         "start_capture_btn": "Iniciar otra captura"
     },
     "update": {
-        "tinycheck_needs": "TinyCheck debe actualizarse a la próxima versión",
+        "seewho_needs": "SeeWho debe actualizarse a la próxima versión",
         "please_click": "Haga click en el botón de abajo para actualizar",
         "the_process": "El proceso puede tardar unos minutos, por favor espere ...",
         "update_finished": "Actualización finalizada, actualizando la interfaz...",

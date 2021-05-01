@@ -31,7 +31,7 @@
   import axios from 'axios'
   import Controls from "@/components/Controls.vue"
   
-  document.title = 'TinyCheck Frontend'
+  document.title = 'SeeWho Frontend'
 
   export default {
     name: 'app',

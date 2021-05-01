@@ -1,4 +1,4 @@
-# tinycheck-backend
+# seewho-backend
 
 ## Project setup
 ```

@@ -7,7 +7,7 @@
     </div>
     <div class="backend-sidebar off-canvas-sidebar" id="sidebar">
       <div class="backend-brand">
-          <h2 @click="$router.push('/')" class="title">TinyCheck</h2>
+          <h2 @click="$router.push('/')" class="title">SeeWho</h2>
       </div>
       <div class="backend-nav">
         <div class="accordion-container">
@@ -62,8 +62,8 @@
         </div>
       </div>
       <div class="shortcuts">
-        <a href="https://github.com/KasperskyLab/tinycheck"><img src="@/assets/github.png" class="shortcut" /></a>
-        <a href="https://twitter.com/tinycheck"><img src="@/assets/twitter.png" class="shortcut" /></a>
+        <a href="https://github.com/KasperskyLab/seewho"><img src="@/assets/github.png" class="shortcut" /></a>
+        <a href="https://twitter.com/seewho"><img src="@/assets/twitter.png" class="shortcut" /></a>
       </div>
     </div>
     <a class="off-canvas-overlay" href="#close"></a>
@@ -76,7 +76,7 @@
 </template>
 
 <script>
-  document.title = 'TinyCheck Backend'
+  document.title = 'SeeWho Backend'
 </script>
 <style>
   @import './assets/spectre.min.css';

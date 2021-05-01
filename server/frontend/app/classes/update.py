@@ -12,13 +12,13 @@ import re
 class Update(object):
 
     def __init__(self):
-        self.project_url = "https://api.github.com/repos/KasperskyLab/TinyCheck/tags"
-        self.app_path = "/usr/share/tinycheck"
+        self.project_url = "https://api.github.com/repos/KasperskyLab/SeeWho/tags"
+        self.app_path = "/usr/share/seewho"
         return None
 
     def check_version(self):
         """
-            Check if a new version of TinyCheck is available 
+            Check if a new version of SeeWho is available 
             by quering the Github api and comparing the last
             tag inside the VERSION file.
             :return: dict containing the available versions.
@@ -48,7 +48,7 @@ class Update(object):
 
     def get_current_version(self):
         """
-            Get the current version of the TinyCheck instance
+            Get the current version of the SeeWho instance
             :return: dict containing the current version or error.
         """
         if read_config(("frontend", "update")):

@@ -1,4 +1,4 @@
-# tinycheck-new
+# seewho-new
 
 ## Project setup
 ```

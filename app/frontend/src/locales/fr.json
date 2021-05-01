@@ -1,6 +1,6 @@
 {
   "home": {
-    "welcome_msg": "Bienvenue sur TinyCheck.",
+    "welcome_msg": "Bienvenue sur SeeWho.",
     "help_msg": "Nous allons vous accompagner pour analyser votre appareil.",
     "start_btn": "Allons-y !"
   },
@@ -80,10 +80,10 @@
     "start_capture_btn": "Lancer une nouvelle capture"
   },
   "update": {
-    "tinycheck_needs": "Une nouvelle mise à jour de TinyCheck est disponible",
+    "seewho_needs": "Une nouvelle mise à jour de SeeWho est disponible",
     "please_click": "Cliquez sur le bouton ci-dessous pour le mettre à jour",
     "the_process": "La mise à jour peut prendre plusieurs minutes, merci d'attendre...",
     "update_finished": "Mise à jour terminée, vous allez être redirigé...",
-    "update_it": "Mettre TinyCheck à jour"
+    "update_it": "Mettre SeeWho à jour"
   }
 }

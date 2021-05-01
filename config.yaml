@@ -71,11 +71,11 @@ network:
 # WATCHERS -
 # They are used to grab automatically new IOCs or whitelisted
 # elements from files containing IOCs export. You can add your
-# own URL and it will be parsed at each TinyCheck reboot.
+# own URL and it will be parsed at each SeeWho reboot.
 #
 watchers:
   iocs:
-  - https://raw.githubusercontent.com/KasperskyLab/TinyCheck/main/assets/iocs.json
-  - https://raw.githubusercontent.com/Te-k/stalkerware-indicators/master/indicators-for-tinycheck.json
+  - https://raw.githubusercontent.com/KasperskyLab/SeeWho/main/assets/iocs.json
+  - https://raw.githubusercontent.com/Te-k/stalkerware-indicators/master/indicators-for-seewho.json
   whitelists:
-  - https://raw.githubusercontent.com/KasperskyLab/TinyCheck/main/assets/whitelist.json
+  - https://raw.githubusercontent.com/KasperskyLab/SeeWho/main/assets/whitelist.json

@@ -11,7 +11,7 @@ from functools import reduce
 
 # I'm not going to use an ORM for that.
 parent = "/".join(sys.path[0].split("/")[:-1])
-conn = sqlite3.connect(os.path.join(parent, "tinycheck.sqlite3"))
+conn = sqlite3.connect(os.path.join(parent, "seewho.sqlite3"))
 cursor = conn.cursor()
 
 

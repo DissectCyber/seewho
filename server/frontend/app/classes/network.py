@@ -133,7 +133,7 @@ class Network(object):
     def wifi_connect(self):
         """
             Connect to one of the WiFi networks present in the wpa_supplicant.conf.
-            :return: dict containing the TinyCheck <-> AP status.
+            :return: dict containing the SeeWho <-> AP status.
         """
 
         # Kill wpa_supplicant instances, if any.
@@ -295,7 +295,7 @@ class Network(object):
             sp.Popen(["iptables", "-A", "POSTROUTING", "-t", "nat", "-o",
                       self.iface_out, "-j", "MASQUERADE"]).wait()
 
-            # Prevent the device to reach the 80 and 443 of TinyCheck.
+            # Prevent the device to reach the 80 and 443 of SeeWho.
             sp.Popen(["iptables", "-A", "INPUT", "-i", self.iface_in, "-d",
                       "192.168.100.1", "-p", "tcp", "--match", "multiport", "--dports", "80,443", "-j" "DROP"]).wait()
 
