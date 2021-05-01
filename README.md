@@ -2,7 +2,7 @@
 
 We wonder what our phones are doing all day and all night. The lucky few super geeks know how to see this activity - and even fewer can make any sense of it. [its-middle-night-do-you-know-who-your-iphone-is-talking to? Washington Post/](https://www.washingtonpost.com/technology/2019/05/28/its-middle-night-do-you-know-who-your-iphone-is-talking/)
 
-SeeWho is part of an effort by many people and organizations around the world to make it easier for all of use to check if something is wrong with our phones. And by "something is wrong" - we mean - someone pulling your data out or tracking you, that you don't know about and don't want. Even if it turns out you are not the target of an international corporate espionage ring, you'll definitely find hordes of advertisers and data brokers making unwanted use of the phone services you are paying for. Let's take a deeper look.
+SeeWho is part of an effort by many people and organizations around the world to make it easier for all of us to check if something is wrong with our phones. And by "something is wrong" - we mean - someone pulling your data out or tracking you, that you don't know about and don't want. Even if it turns out you are not the target of an international corporate espionage ring, you'll definitely find hordes of advertisers and data brokers making unwanted use of the phone services you are paying for. Let's take a deeper look.
 
 ### Credits
 
