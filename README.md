@@ -15,6 +15,16 @@ As will be explained in more detail at the bottom of this page, other contributo
 ********************* FIXME BELOW we are still in the process of editing, auditing and adding features to SeeWho.
 
 ![IMG_1458](https://user-images.githubusercontent.com/655557/116790919-eb004300-aa84-11eb-94e5-707f02197710.JPG)
+ 
+### USE CASE: Suspicious URL Detonation on Clean Device
+
+NOTE: Do not use your own phone or device to visit suspicious URLs or to "see what happens" if you click on an attachment. Your device may be compromised and cannot be trusted thereafter.
+
+Here we demonstrate using SeeWho with a clean phone whose only purpose is use as a test device on which to detonate suspicious attachments or visit suspicious URLs:
+
+![citizens-phish-1](https://user-images.githubusercontent.com/655557/116878960-0a66af80-abee-11eb-892b-646a82cc9efb.png)
+
+![citizens-phish-2](https://user-images.githubusercontent.com/655557/116878964-0b97dc80-abee-11eb-83f4-4668160a8dc2.png)
 
 
 ### Description
