@@ -8,7 +8,17 @@ SeeWho is part of an effort by many people and organizations around the world to
 
 All this software is free to you. Whenever you see such a statement, you should wonder "how can it be free?" Is my data being sold so this thing can be free? Those are some of the right questions for sure. SeeWho is a combination of multiple kinds of free open source software that many different people have added to. Everyone can also see and verify everyone else's work, which helps prevent someone turning the code malicious.
 
-The foundational software currently in use for SeeWho is from an open source project funded originally by the National Science Foundation. It used to be called Bro (kind of a joke on Big Brother, because it is so good at monitoring network traffic) and now is re-branded as Zeek. Also in SeeWho is Suricata, funded by the Open Information Security Foundation (OISF.net). https://vue.js/ is part of the user interface. 
+The foundational software currently in use for SeeWho is from an open source project funded originally by the National Science Foundation. It used to be called Bro (kind of a joke on Big Brother, because it is so good at monitoring network traffic) and now is re-branded as
+
+## [https://zeek.org/](Zeek) 
+
+AND
+
+## [https://suricata-ids.org/](Suricata)
+funded by the [Open Information Security Foundation](OISF.net)
+
+## [https://vue.js/](https://vue.js/)
+is part of the user interface 
 
 As will be explained in more detail at the bottom of this page, other contributors worked on making the configuration of the above software easier to install, maintain, and output reports. 
 
