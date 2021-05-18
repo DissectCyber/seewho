@@ -62,7 +62,7 @@
         </div>
       </div>
       <div class="shortcuts">
-        <a href="https://github.com/KasperskyLab/seewho"><img src="@/assets/github.png" class="shortcut" /></a>
+        <a href="https://github.com/DissectCyber/seewho"><img src="@/assets/github.png" class="shortcut" /></a>
         <a href="https://twitter.com/seewho"><img src="@/assets/twitter.png" class="shortcut" /></a>
       </div>
     </div>
