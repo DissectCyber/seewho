@@ -76,6 +76,6 @@ network:
 watchers:
   iocs:
   - https://raw.githubusercontent.com/DissectCyber/SeeWho/main/assets/iocs.json
-  - https://raw.githubusercontent.com/Te-k/stalkerware-indicators/master/indicators-for-seewho.json
+  - https://raw.githubusercontent.com/DissectCyber/SeeWho/main/assets/indicators-for-seewho.json
   whitelists:
   - https://raw.githubusercontent.com/DissectCyber/SeeWho/main/assets/whitelist.json
