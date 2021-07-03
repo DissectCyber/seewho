@@ -17,6 +17,10 @@ AND
 ## [https://suricata-ids.org/](Suricata)
 funded by the [Open Information Security Foundation](OISF.net)
 
+## Serious efforts from people identifying stalkerware
+
+While the SeeWho project is not aimed at stalkerware, Te-k's github on stalkerware is a great resource if this is your focus. https://github.com/Te-k/stalkerware-indicators Please note that public lists of IoC are used by criminals or in this case perhaps non-criminal stalkerware companies to simply change the domains and IPs they utilize. They can obtain the same software and lists that defenders use and test their services and make changes. For this reason defenders often keep private lists shared with trusted parties.
+
 ## [https://vue.js/](https://vue.js/)
 is part of the user interface 
 

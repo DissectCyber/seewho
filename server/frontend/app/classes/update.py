@@ -12,7 +12,7 @@ import re
 class Update(object):
 
     def __init__(self):
-        self.project_url = "https://api.github.com/repos/KasperskyLab/SeeWho/tags"
+        self.project_url = "https://api.github.com/repos/DissectCyber/SeeWho/tags"
         self.app_path = "/usr/share/seewho"
         return None
 

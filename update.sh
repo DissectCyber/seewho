@@ -7,7 +7,7 @@ fi
 if [ $PWD = "/usr/share/seewho" ]; then
     echo "[+] Cloning the current repository to /tmp/"
     rm -rf /tmp/seewho/ &> /dev/null 
-    cd /tmp/ && git clone https://github.com/KasperskyLab/seewho
+    cd /tmp/ && git clone https://github.com/DissectCyber/seewho
     cd /tmp/seewho && bash update.sh
 elif [ $PWD = "/tmp/seewho" ]; then
 
